@@ -18,3 +18,5 @@ The idea is to perform a comparative analysis for these models and evaluate each
 3. Precision
 4. Recall
 5. ROCAUC score
+
+The effect of introducing synthetic samples in the training data is then analysed for each classifier.
